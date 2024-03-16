@@ -10,3 +10,5 @@ let dateMonth = months[currentDate.getMonth() - 1];
 
 day.innerText = dateDay;
 theDate.innerText = `${dateNumber} ${dateMonth}`;
+
+//Display weekly, monthly stats, and a graph above the calendar?
